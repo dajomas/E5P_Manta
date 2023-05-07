@@ -1,14 +1,20 @@
 # E5P_Manta
 
-The file connections.jpg is a picture of my pin out:
+![connections.png](connections.png)
+The file connections.png is a picture of my pin out:
  * I added 2 additional thermistors to keep an eye on my X and Y motors
  * I also use a TriangleLab TD6 hotend 
- * and I have a HeroMe GEN7 setup with 2 axial part cooling fans
+ * and I have a HeroMe GEN7 setup with 2 axial 24v part cooling fans (very important to set the fan volt selctor jumpers to the correct voltage!)
  * The reason I put the Extruder motor on Motor8 is that I want to go Quad-Z so I left some room for 2 additional Z motors
  * I have the 2 current Z motors on separate drivers to allow for Z-Tilt adjustment
  * The yellow parts are jumpers I had to place
 
 The other images are pictures of what it all looks like
+![20230506_092357.jpg](20230506_092357_rot.jpg)
+
+![20230506_095101.jpg](20230506_095101.jpg)
+
+![20230506_095725.jpg](20230506_095725.jpg)
 
 The case came from https://www.printables.com/model/454251-manta-m8p-backpack
 
