@@ -2,13 +2,13 @@
 
 ![connections.png](connections.png)
 
-I made a typo in the picture above: The second Noctua hot-end fan (connected to fan3) is not a hot-end fan but my 120mm case fan
+I made a typo in the picture above: The second Noctua Hotend fan (connected to fan3) is not a Hotend fan but my Noctua 12V 120mm case fan
 
 The file connections.png is a picture of my pin out:
  * I had to take the sockets for the X, Y and Z endstop off because they are 3 pin sockets but the connectors are only 2 pins and they just don't fit :-(
  * I added 2 additional thermistors to keep an eye on my X and Y motors
  * I also use a TriangleLab TD6 hotend 
- * and I have a HeroMe GEN7 setup with 2 axial 24v part cooling fans (very important to set the fan volt selctor jumpers to the correct voltage!)
+ * I have a HeroMe GEN7 setup with 2 axial 24v part cooling fans (very important to set the fan volt selector jumpers to the correct voltage!)
  * The reason I put the Extruder motor on Motor8 is that I want to go Quad-Z so I left some room for 2 additional Z motors
  * I have the 2 current Z motors on separate drivers to allow for Z-Tilt adjustment
  * The yellow parts are jumpers I had to place
