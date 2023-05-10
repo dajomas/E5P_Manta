@@ -1,6 +1,9 @@
 # E5P_Manta
 
 ![connections.png](connections.png)
+
+I made a typo in the picture above: The second Noctua hot-end fan (connected to fan3) is not a hot-end fan but my 120mm case fan
+
 The file connections.png is a picture of my pin out:
  * I had to take the sockets for the X, Y and Z endstop off because they are 3 pin sockets but the connectors are only 2 pins and they just don't fit :-(
  * I added 2 additional thermistors to keep an eye on my X and Y motors
