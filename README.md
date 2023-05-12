@@ -12,6 +12,7 @@ The file connections.png is a picture of my pin out:
  * The reason I put the Extruder motor on Motor8 is that I want to go Quad-Z so I left some room for 2 additional Z motors
  * I have the 2 current Z motors on separate drivers to allow for Z-Tilt adjustment
  * The yellow parts are jumpers I had to place
+ * I left the MOFSET for the heated bed in place and just use the same wires on the Manta as were used on the previous boards (Stock board and BTT SKR mini 3 v3.0)
 
 The other images are pictures of what it all looks like
 ![20230506_092357.jpg](20230506_092357_rot.jpg)
