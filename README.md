@@ -1,6 +1,6 @@
 # E5P_Manta
 
-![connections.png](connections.png)
+![connections.png](connections.png?v=2)
 
 I made a typo in the picture above: The second Noctua Hotend fan (connected to fan3) is not a Hotend fan but my Noctua 12V 120mm case fan
 
