@@ -3,7 +3,7 @@
 ![connections.png](connections.png)
 
 The file connections.png is a picture of my pin out:
- * I had to take the sockets for the X, Y and Z endstop off because they are 3 pin sockets but the connectors are only 2 pins and they just don't fit :-(
+ * I had to take the sockets for the X, Y and Z endstop off because they are 3 pin sockets but the connectors are only 2 pins and they just don't fit :-( (With all the extra connectors that come with the Manta, I could have put the right ones on the wire but I chose not to, maybe I will in the near future, we'll see)
  * I added 2 additional thermistors to keep an eye on my X and Y motors
  * I also use a TriangleLab TD6 hotend 
  * I have a HeroMe GEN7 setup with 2 axial 24v part cooling fans (very important to set the fan volt selector jumpers to the correct voltage!)
