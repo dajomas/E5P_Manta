@@ -19,7 +19,7 @@ The other images are pictures of what it all looks like
 
 ![20230506_095725.jpg](20230506_095725.jpg)
 
-The case came from https://www.printables.com/model/454251-manta-m8p-backpack
+The case came originally from https://www.printables.com/model/454251-manta-m8p-backpack but I made a remix to allow for heat-set inserts to screw down the lid: https://www.printables.com/model/481783-manta-m8p-backpack-case-update
 
 Docs and other images can be found here: https://github.com/bigtreetech/Manta-M8P
 
