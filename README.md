@@ -17,6 +17,7 @@ The file connections.png is a picture of my pin out:
    * The reason for Z1 on Motor5 and Z2 on Motor4 is because in Dual-Z mode, I had Z on Motor3 and Z1 on Motor4, by moving to Triple-Z, Z1 became Z2 (stepper motor on the right side) and the new Z1 was added to Motor5
  * I added a BTT SFS V2.0 Smart Filament Sensor, which requires 2 sockets: PC1 and PC2
    * I left the original Filament Sensor attached to it's original socket just in case the new sensor doesn't do the job
+   * For this sensor, I created a mount which, sadly, cannot be shared on Printables because it is created from 2 different models which have different licenses
  * These changes are reflected in the printer.cfg file
 
 After the 2024-02-02 updates:
