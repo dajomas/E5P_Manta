@@ -1,6 +1,6 @@
 # E5P_Manta
 
-![connections.png](connections.png)
+![connections2.png](connections2.png)
 
 The file connections.png is a picture of my pin out:
  * I had to take the sockets for the X, Y and Z endstop off because they are 3 pin sockets but the connectors are only 2 pins and they just don't fit :-( (With all the extra connectors that come with the Manta, I could have put the right ones on the wire but I chose not to, maybe I will in the near future, we'll see)
@@ -11,6 +11,13 @@ The file connections.png is a picture of my pin out:
  * I have the 2 current Z motors on separate drivers to allow for Z-Tilt adjustment
  * The yellow parts are jumpers I had to place
  * I left the MOFSET for the heated bed in place and just use the same wires on the Manta as were used on the previous boards (Stock board and BTT SKR mini 3 v3.0)
+
+2024-02-02 Updates:
+ * I am now running a tripple-Z configuration but I have the cables in place for a Quad-Z configuration (Left side, Z (Motor3) and Z1 (Motor5), Right side Z2 (Motor4); Z3 (Motor6) will be second Z motor on the right when I move to Quad-Z)
+   * The reason for Z1 on Motor5 and Z2 on Motor4 is because in Dual-Z mode, I had Z on Motor3 and Z1 on Motor4, by moving to Triple-Z, Z1 became Z2 (stepper motor on the right side) and the new Z1 was added to Motor5
+ * I added a BTT SFS V2.0 Smart Filament Sensor, which requires 2 sockets: PC1 and PC2
+   * I left the original Filament Sensor attached to it's original socket just in case the new sensor doesn't do the job
+ * These changes are reflected in the printer.cfg file
 
 The other images are pictures of what it all looks like
 ![20230506_092357.jpg](20230506_092357_rot.jpg)
