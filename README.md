@@ -19,6 +19,9 @@ The file connections.png is a picture of my pin out:
    * I left the original Filament Sensor attached to it's original socket just in case the new sensor doesn't do the job
  * These changes are reflected in the printer.cfg file
 
+After the 2024-02-02 updates:
+![20240202_095552.jpg](20240202_095552.jpg)
+
 The other images are pictures of what it all looks like
 ![20230506_092357.jpg](20230506_092357_rot.jpg)
 
