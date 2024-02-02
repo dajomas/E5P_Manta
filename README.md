@@ -29,8 +29,10 @@ The other images are pictures of what it all looks like
 
 ![20230506_095725.jpg](20230506_095725.jpg)
 
-The case came originally from https://www.printables.com/model/454251-manta-m8p-backpack but I made a remix to allow for heat-set inserts to screw down the lid: https://www.printables.com/model/481783-manta-m8p-backpack-case-update
+The case came originally from [https://www.printables.com/model/454251-manta-m8p-backpack](https://www.printables.com/model/454251-manta-m8p-backpack) but I made a remix to allow for heat-set inserts to screw down the lid: [https://www.printables.com/model/481783-manta-m8p-backpack-case-update](https://www.printables.com/model/481783-manta-m8p-backpack-case-update)
 
-Docs and other images can be found here: https://github.com/bigtreetech/Manta-M8P
+Docs and other images can be found here: 
+ * [https://github.com/bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P)
+ * [https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V2.0](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V2.0)
 
-And I used this site to get Klipper on the Manta M8P: https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/
+And I used this site to get Klipper on the Manta M8P: [https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/](https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/)https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/
