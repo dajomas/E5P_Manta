@@ -36,4 +36,6 @@ Docs and other images can be found here:
  * [https://github.com/bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P)
  * [https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V2.0](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V2.0)
 
-And I used this site to get Klipper on the Manta M8P: [https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/](https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/)https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/
+And I used this site to get Klipper on the Manta M8P: [https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/](https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/)
+
+This page has been remove but can be found here: https://web.archive.org/web/20250613012559/https://3dpandme.com/2022/10/02/tutorial-btt-manta-m8p-cb1-klipper-guide/
